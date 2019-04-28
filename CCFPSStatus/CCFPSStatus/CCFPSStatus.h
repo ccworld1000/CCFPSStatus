@@ -10,7 +10,7 @@
 #import <Foundation/Foundation.h>
 
 /**
- FPS status check
+ show FPS status | Flexible location
  */
 @interface CCFPSStatus : NSObject
 
